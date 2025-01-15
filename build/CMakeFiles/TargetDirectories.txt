@@ -1,0 +1,3 @@
+/home/pills/Documents/projects/noteplus/build/CMakeFiles/noteplus.dir
+/home/pills/Documents/projects/noteplus/build/CMakeFiles/edit_cache.dir
+/home/pills/Documents/projects/noteplus/build/CMakeFiles/rebuild_cache.dir
